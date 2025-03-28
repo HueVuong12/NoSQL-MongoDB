@@ -1,0 +1,140 @@
+[{
+"_id": "sv1001",
+"hoTen": "Nguyễn Văn A",
+"tuoi": 20,
+"lop": "CNTT1",
+"kyNang": ["Lập trình Java", "SQL"],
+"diem": [
+	{ "monHoc": "Lập trình Java", "diemSo": 8.5, "xepHang": "Giỏi" },
+	{ "monHoc": "SQL", "diemSo": 7.0, "xepHang": "Khá" }
+],
+"namKinhNghiem": [3, 1],
+"queQuan": "Hà Nội",
+"email": "nguyenvana@gmail.com"
+},
+{
+"_id": "sv1002",
+"hoTen": "Trần Thị B",
+"tuoi": 31,
+"lop": "CNTT2",
+"kyNang": ["Python", "HTML"],
+"diem": [
+	{ "monHoc": "Python", "diemSo": 6.5, "xepHang": "Trung bình" },
+	{ "monHoc": "HTML", "diemSo": 7.5, "xepHang": "Khá" }
+],
+"namKinhNghiem": [2, 3],
+"queQuan": "Hải Phòng",
+"email": "tranthib@gmail.com"
+},
+{
+"_id": "sv1003",
+"hoTen": "Lê Văn C",
+"tuoi": 26,
+"lop": "CNTT3",
+"kyNang": ["C++", "CSS"],
+"diem": [
+	{ "monHoc": "C++", "diemSo": 7.0, "xepHang": "Khá" },
+	{ "monHoc": "CSS", "diemSo": 8.0, "xepHang": "Giỏi" }
+],
+"namKinhNghiem": [1, 4],
+"queQuan": "Nam Định",
+"email": "levanc@gmail.com"
+},
+{
+"_id": "sv1004",
+"hoTen": "Phạm Minh D",
+"tuoi": 25,
+"lop": "CNTT1",
+"kyNang": ["JavaScript", "Node.js"],
+"diem": [
+	{ "monHoc": "JavaScript", "diemSo": 9.0, "xepHang": "Giỏi" },
+	{ "monHoc": "Node.js", "diemSo": 6.5, "xepHang": "Trung bình" }
+],
+"namKinhNghiem": [3, 2],
+"queQuan": "Hà Nội",
+"email": "phamminhd@gmail.com"
+},
+{
+"_id": "sv1005",
+"hoTen": "Hoàng Thị E",
+"tuoi": 29,
+"lop": "CNTT2",
+"kyNang": ["PHP", "Laravel"],
+"diem": [
+	{ "monHoc": "PHP", "diemSo": 8.0, "xepHang": "Khá" },
+	{ "monHoc": "Laravel", "diemSo": 9.5, "xepHang": "Giỏi" }
+],
+"namKinhNghiem": [2, 4],
+"queQuan": "Nghệ An",
+"email": "hoangthie@gmail.com"
+},
+{
+"_id": "sv1006",
+"hoTen": "Đỗ Văn F",
+"tuoi": 26,
+"lop": "CNTT3",
+"kyNang": ["React", "Redux"],
+"diem": [
+	{ "monHoc": "React", "diemSo": 6.0, "xepHang": "Yếu" },
+	{ "monHoc": "Redux", "diemSo": 7.5, "xepHang": "Khá" }
+],
+"namKinhNghiem": [3, 2],
+"queQuan": "Quảng Ninh",
+"email": "dovanf@gmail.com"
+},
+{
+"_id": "sv1007",
+"hoTen": "Nguyễn Thị G",
+"tuoi": 27,
+"lop": "CNTT4",
+"kyNang": ["MongoDB", "Express"],
+"diem": [
+	{ "monHoc": "MongoDB", "diemSo": 8.0, "xepHang": "Khá" },
+	{ "monHoc": "Express", "diemSo": 6.5, "xepHang": "Trung bình" }
+],
+"namKinhNghiem": [4, 1],
+"queQuan": "Hà Tĩnh",
+"email": "nguyenthig@gmail.com"
+},
+{
+"_id": "sv1008",
+"hoTen": "Trần Văn I",
+"tuoi": 25,
+"lop": "CNTT2",
+"kyNang": ["Python", "Django"],
+"diem": [
+	{ "monHoc": "Python", "diemSo": 9.0, "xepHang": "Giỏi" },
+	{ "monHoc": "Django", "diemSo": 8.5, "xepHang": "Giỏi" }
+],
+"namKinhNghiem": [3, 4],
+"queQuan": "Bắc Giang",
+"email": "tranvani@gmail.com"
+},
+{
+"_id": "sv1009",
+"hoTen": "Lê Thị J",
+"tuoi": 30,
+"lop": "CNTT3",
+"kyNang": ["Java", "Spring Boot"],
+"diem": [
+	{ "monHoc": "Java", "diemSo": 6.5, "xepHang": "Trung bình" },
+	{ "monHoc": "Spring Boot", "diemSo": 7.0, "xepHang": "Khá" }
+],
+"namKinhNghiem": [2, 3],
+"queQuan": "Hưng Yên",
+"email": "lethij@gmail.com"
+},
+{
+"_id": "sv1010",
+"hoTen": "Nguyễn Hữu K",
+"tuoi": 28,
+"lop": "CNTT1",
+"kyNang": ["Golang", "Docker"],
+"diem": [
+	{ "monHoc": "Golang", "diemSo": 8.5, "xepHang": "Giỏi" },
+	{ "monHoc": "Docker", "diemSo": 9.0, "xepHang": "Giỏi" }
+],
+"namKinhNghiem": [3, 5],
+"queQuan": "Đà Nẵng",
+"email": "nguyenhuuk@gmail.com"
+}]
